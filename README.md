@@ -9,4 +9,3 @@
 
 Oriel checks this feed and offers new versions right in the app. Needs macOS 14 or newer.
 
-*Formerly Islet. Installing Oriel replaces the old Islet and keeps your settings and permissions.*
