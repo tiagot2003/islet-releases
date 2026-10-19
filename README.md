@@ -5,7 +5,7 @@
 
 <p align="center"><img src="docs/expanded.png" width="760" alt="Oriel open: player and week calendar"></p>
 
-**[Download the latest version](../../releases/latest)**: get **Oriel.dmg**, drag Oriel to Applications, and open it. The first time, go to **System Settings → Privacy & Security → Open Anyway**.
+**[orielformac.pages.dev](https://orielformac.pages.dev)** · **[Download the latest version](../../releases/latest)**: get **Oriel.dmg**, drag Oriel to Applications, and open it. The first time, go to **System Settings → Privacy & Security → Open Anyway**.
 
 Oriel checks this feed and offers new versions right in the app. Needs macOS 14 or newer.
 
