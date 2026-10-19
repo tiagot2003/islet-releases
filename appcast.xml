@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 2.2</title>
+      <pubDate>Mon, 19 Oct 2026 17:31:41 +0100</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Oriel 2.2</h3><ul><li><b>AirPlay like the Music app.</b> With Apple Music, or Spotify without a login, the AirPlay button opens the same AirPlay menu as macOS, and the island stays open while you pick.</li><li><b>Send Feedback.</b> Ideas, bugs or questions? Settings → General → Send Feedback opens an email to orielformac@gmail.com.</li><li><b>New website.</b> Oriel now has a home at orielformac.pages.dev.</li><li><b>Tidier under the hood.</b> Your settings and Spotify login move to a new folder automatically; nothing to do.</li></ul>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v2.2/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="iajan4HxqjD4GoygPfv7Ml0QRkb9nAXvdOIlgzryTZf0C0mChZE90+d0SUFCE5LDgMPQcePQAi/0mMXUYEPICw==" length="4000354" />
+    </item>
+    <item>
       <title>Oriel 2.1</title>
       <pubDate>Mon, 19 Oct 2026 16:09:48 +0100</pubDate>
       <sparkle:version>3</sparkle:version>
