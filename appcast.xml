@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 2.1</title>
+      <pubDate>Mon, 19 Oct 2026 16:09:48 +0100</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Oriel 2.1</h3><ul><li><b>Spotify login is now optional.</b> Spotify works straight away, no setup. Log in from Settings only if you want saving, playlists and control of your other devices. Features that need the login stay hidden until you do.</li><li><b>Switching devices keeps your song.</b> Moving Spotify from your phone to your Mac carries on with the same song, at the same second, without restarting DJ or losing your queue.</li><li><b>Smarter music bars.</b> They hold still when music is playing on your phone or TV, like on iPhone, and start and stop the instant you press play or pause.</li><li><b>Calendar refresh.</b> Today is red, weekends are a subtle bold white, and clicking the month opens Calendar.</li><li><b>New blue icon.</b></li><li><b>Fixes.</b> The island stays put when you swipe between desktops, leaves macOS's volume and brightness pop-ups alone, and AirPods banners show the right picture for each device.</li></ul>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v2.1/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="iwXxcm9w1zlD1MweCaEOfl8DCDyEnm+8CDfS2YwfJw8k8guC6st5yvT6WzRT98Myq1/ta5OZPZqAFNaRxDOGAg==" length="3988059" />
+    </item>
+    <item>
       <title>Oriel 2.0</title>
       <pubDate>Mon, 19 Oct 2026 10:13:39 +0100</pubDate>
       <sparkle:version>2</sparkle:version>
