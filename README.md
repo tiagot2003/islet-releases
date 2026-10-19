@@ -9,3 +9,5 @@
 
 Oriel checks this feed and offers new versions right in the app. Needs macOS 14 or newer.
 
+
+Ideas, bugs or questions? Email **[orielformac@gmail.com](mailto:orielformac@gmail.com)**. If you enjoy Oriel, you can [buy me a coffee](https://buymeacoffee.com/orielapp) ☕
