@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 2.3</title>
+      <pubDate>Tue, 20 Oct 2026 14:23:31 +0100</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Oriel 2.3</h3><ul><li><b>Spotify login in the Keychain.</b> Your Spotify login is now stored encrypted in the macOS Keychain, readable only by Oriel and never synced. It moves over automatically.</li><li><b>Hardened runtime.</b> macOS now blocks other programs from injecting code into Oriel.</li><li><b>Less on disk.</b> A leftover debug log is gone, along with old copies of it.</li><li><b>Safer Apple Music commands.</b> Extra checks on what Oriel sends to Music.</li></ul>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v2.3/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="h8+02u1ujy9mhqvC4R00pv1AkHxKVXWKdhJ5pZfmRce8cg3sClE1j6tKZ5MB+dk4WB5XxOCOdk4mmE+PBHPcAQ==" length="4000875" />
+    </item>
+    <item>
       <title>Oriel 2.2</title>
       <pubDate>Mon, 19 Oct 2026 17:31:41 +0100</pubDate>
       <sparkle:version>4</sparkle:version>
