@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.0</title>
+      <pubDate>Thu, 29 Oct 2026 11:35:30 +0000</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The island grew up: a big player in the notch with synced lyrics, Up Next, volume and output, for Apple Music and Spotify</p><p>Moving album covers (Apple Music's animated art) in the island, the big player, full screen and your lock screen</p><p>Your music on the Mac's lock screen, with its controls and lyrics</p><p>Live Activities: Claude Code and Codex step by step (a red ! when they need you), Pomodoro timer, downloads, screen recording, meetings with mute and leave, charging and AirPods</p><p>Texts and emails out of the notch, with the photos people send and the right profile pictures; reply right from the island; read on your iPhone and they clear here</p><p>Calls ring in the island with Answer and Decline (turn on "Show who's calling" to see the caller's name)</p><p>Shazam in the island, one click to the song in Apple Music, Spotify or YouTube</p><p>Calendar: add events by typing ("lunch with Rita tomorrow 1pm"), reminders you can tick off, your week, meeting alerts with Join</p><p>File tray: drop files on the notch, drag them out or AirDrop them; clipboard history, quick notes and a mirror</p><p>Widgets: weather, batteries, system, reminders, world clock, and widgets anyone can make (builder and gallery on the website)</p><p>Your AI limits for Claude, Codex, Cursor, Gemini and Copilot at a glance</p><p>Spotify: save to Liked Songs, see which playlists a song is in, see where it's playing and move it to another device</p><p>Black, Liquid Glass or glass tinted by the song; swipe on the island to skip; it tucks away when menus need the room</p><p>Works with macOS 27, follows Reduce Motion and Reduce Transparency, and stays light: about 47 MB of memory, under 1% CPU at rest</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.0/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="u9oZ0r/9AxBIEF0m/Hu5bu1DSMuQ9pGEEa6ygKd6yCMng509tV6Tl/Ra9W94zwUv/1l5RAaXLjgYuv5nmQmSAg==" length="8795454" />
+    </item>
+    <item>
       <title>Oriel 2.3</title>
       <pubDate>Tue, 20 Oct 2026 14:23:31 +0100</pubDate>
       <sparkle:version>5</sparkle:version>
