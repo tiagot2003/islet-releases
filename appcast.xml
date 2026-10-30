@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.0.3</title>
+      <pubDate>Fri, 30 Oct 2026 20:05:29 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>3.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Texts, calls, meetings, widgets and more are now on for everyone (anything you switched off stays off); macOS asks about what they need, and a no turns just that off</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.0.3/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="cwLLuIqGzmFs/oZ3uVc56Cz8dpaKLckDvnneuWYoDz0ngPOJMAZ/IV2M9qax+gF6Ban3zh65ypR5cTs/gjbjCg==" length="8853380" />
+    </item>
+    <item>
       <title>Oriel 3.0.2</title>
       <pubDate>Fri, 30 Oct 2026 18:35:13 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
