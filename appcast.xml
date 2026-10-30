@@ -6,6 +6,15 @@
     <description>Oriel updates</description>
     <language>en</language>
     <item>
+      <title>Oriel 3.0.1</title>
+      <pubDate>Fri, 30 Oct 2026 16:33:25 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>3.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Widgets are safer: only the Oriel gallery can add one in a click, and widgets from anywhere else are clearly marked as not reviewed</p><p>Widgets can no longer read from your Mac or your local network</p><p>When two contacts share a number, texts show the number instead of guessing who sent them</p>]]></description>
+      <enclosure url="https://github.com/tiagot2003/oriel-releases/releases/download/v3.0.1/Oriel.dmg" type="application/octet-stream" sparkle:edSignature="vCl97iFAjQMg+hIZUV21/SluEJpSV5pbuqQ3FFJTT/vHhjD8b96LSTLgTbIppbH3+6AzqibLWwfKmHweXBYsBg==" length="8808948" />
+    </item>
+    <item>
       <title>Oriel 3.0</title>
       <pubDate>Thu, 29 Oct 2026 11:35:30 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
